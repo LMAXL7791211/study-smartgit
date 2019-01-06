@@ -1,1 +1,3 @@
 print('hello, world')
+print('i study github')
+print('hello everyone')
